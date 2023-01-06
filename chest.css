@@ -1,0 +1,13 @@
+div {
+    font-size: 130px;
+    /* width: 5px;     */
+}
+.white {
+    height: 100px;
+    width: 100px;
+}
+.black {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
